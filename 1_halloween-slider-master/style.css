@@ -141,3 +141,26 @@ html, body {
     margin-bottom: 32px;
     opacity: .75;
 }
+
+.info__text {
+    color: white;
+}
+
+.site__cotegory {
+    height: 100%;
+    width: 968px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+}
+.golov__bloc {
+    height: 100%;
+    width: 650px;
+    font-size: 56px;
+    font-weight: 100px;
+}
+.info__textmini {
+    
+}
